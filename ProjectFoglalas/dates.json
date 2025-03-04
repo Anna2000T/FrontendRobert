@@ -1,0 +1,41 @@
+{
+    "szolgaltatasok":[
+    {
+            "name" :"pszichológus",
+            "id":1,
+            "idopont":null
+            
+    },
+    {
+        "name" :"műkörmös",
+        "id":2,
+        "idopont":null
+},
+{
+    "name" :"fodrász férfi/női",
+    "id":3,
+    "idopont":null
+},
+{
+    "name" :"orvos",
+    "id":4,
+    "idopont":null
+},
+{
+    "name" :"műszaki vizsga",
+    "id":5,
+    "idopont":null
+},
+{
+    "name" :"tetováló",
+    "id":6,
+    "idopont":null
+},
+{
+    "name" :"hivatali ügyintézés",
+    "id":7,
+    "idopont":null
+}
+    
+    ]
+}
