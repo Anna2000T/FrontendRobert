@@ -1,0 +1,53 @@
+{
+  "szolgaltatasok": [
+    {
+      "name": "műkörmös",
+      "idopont": "Fri Jan 16 1970 01:00:00 GMT+0100 (közép-európai téli idő)",
+      "id": "1",
+      "foglaloNev": null,
+      "foglaloTelefonszama": null
+    },
+    {
+      "name": "pszichológus",
+      "idopont": "Fri Jan 16 1970 01:00:00 GMT+0100 (közép-európai téli idő)",
+      "id": "2",
+      "foglaloNev": null,
+      "foglaloTelefonszama": null
+    },
+    {
+      "name": "fodrász férfi/női",
+      "idopont": "Sat Jan 24 1970 01:00:00 GMT+0100 (közép-európai téli idő)",
+      "id": "3",
+      "foglaloNev": null,
+      "foglaloTelefonszama": null
+    },
+    {
+      "name": "orvos",
+      "idopont": "Tue Jan 27 1970 01:00:00 GMT+0100 (közép-európai téli idő)",
+      "id": "4",
+      "foglaloNev": null,
+      "foglaloTelefonszama": null
+    },
+    {
+      "name": "műszaki",
+      "idopont": "1970-01-01T00:00:00.000Z",
+      "id": "5",
+      "foglaloNev": null,
+      "foglaloTelefonszama": null
+    },
+    {
+      "name": "tetováló",
+      "id": "6",
+      "idopont": "1970-01-01T00:00:00.000Z",
+      "foglaloNev": null,
+      "foglaloTelefonszama": null
+    },
+    {
+      "name": "hivatali ügyintézés",
+      "id": "7",
+      "idopont": "1970-01-01T00:00:00.000Z",
+      "foglaloNev": "Amygdala",
+      "foglaloTelefonszama": "36303883425"
+    }
+  ]
+}
