@@ -1,0 +1,53 @@
+{
+  "szolgaltatasok": [
+    {
+      "name": "műkörmös",
+      "idopont": "",
+      "id": "1",
+      "foglaloNev": "",
+      "foglaloTelefonszama": ""
+    },
+    {
+      "name": "pszichológus",
+      "idopont": "",
+      "id": "2",
+      "foglaloNev": "",
+      "foglaloTelefonszama": ""
+    },
+    {
+      "name": "fodrász férfi/női",
+      "idopont": "",
+      "id": "3",
+      "foglaloNev": "",
+      "foglaloTelefonszama": ""
+    },
+    {
+      "name": "orvos",
+      "idopont": "",
+      "id": "4",
+      "foglaloNev": "",
+      "foglaloTelefonszama": ""
+    },
+    {
+      "name": "műszaki",
+      "idopont": "",
+      "id": "5",
+      "foglaloNev": "",
+      "foglaloTelefonszama": ""
+    },
+    {
+      "name": "tetováló",
+      "id": "6",
+      "idopont": "",
+      "foglaloNev": "",
+      "foglaloTelefonszama": ""
+    },
+    {
+      "name": "hivatali ügyintézés",
+      "id": "7",
+      "idopont": "",
+      "foglaloNev": "",
+      "foglaloTelefonszama": ""
+    }
+  ]
+}
