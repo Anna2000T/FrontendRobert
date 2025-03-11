@@ -1,0 +1,53 @@
+{
+  "szolgaltatasok": [
+    {
+      "name": "műkörmös",
+      "idopont": "2025-03-12T10:35:00.000Z",
+      "id": "1",
+      "foglaloNev": "Amanda00",
+      "foglaloTelefonszama": "300000000"
+    },
+    {
+      "name": "pszichológus",
+      "idopont": "2025-09-17T14:10:00.000Z",
+      "id": "2",
+      "foglaloNev": "Amanda000",
+      "foglaloTelefonszama": "Amanda000"
+    },
+    {
+      "name": "fodrász férfi/női",
+      "idopont": "",
+      "id": "3",
+      "foglaloNev": "",
+      "foglaloTelefonszama": ""
+    },
+    {
+      "name": "orvos",
+      "idopont": "2025-05-20T22:00:00.000Z",
+      "id": "4",
+      "foglaloNev": "amanda00",
+      "foglaloTelefonszama": "303677232"
+    },
+    {
+      "name": "műszaki",
+      "idopont": "",
+      "id": "5",
+      "foglaloNev": "",
+      "foglaloTelefonszama": ""
+    },
+    {
+      "name": "tetováló",
+      "id": "6",
+      "idopont": "",
+      "foglaloNev": "",
+      "foglaloTelefonszama": ""
+    },
+    {
+      "name": "hivatali ügyintézés",
+      "id": "7",
+      "idopont": "",
+      "foglaloNev": "",
+      "foglaloTelefonszama": ""
+    }
+  ]
+}
